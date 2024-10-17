@@ -1,0 +1,10 @@
+C:\Users\Student406-11\source\repos\Менеджер задач таймер\Менеджер задач таймер\bin\Debug\Менеджер задач таймер.exe.config
+C:\Users\Student406-11\source\repos\Менеджер задач таймер\Менеджер задач таймер\bin\Debug\Менеджер задач таймер.exe
+C:\Users\Student406-11\source\repos\Менеджер задач таймер\Менеджер задач таймер\bin\Debug\Менеджер задач таймер.pdb
+C:\Users\Student406-11\source\repos\Менеджер задач таймер\Менеджер задач таймер\obj\Debug\Менеджер задач таймер.csproj.AssemblyReference.cache
+C:\Users\Student406-11\source\repos\Менеджер задач таймер\Менеджер задач таймер\obj\Debug\Менеджер_задач_таймер.Form1.resources
+C:\Users\Student406-11\source\repos\Менеджер задач таймер\Менеджер задач таймер\obj\Debug\Менеджер_задач_таймер.Properties.Resources.resources
+C:\Users\Student406-11\source\repos\Менеджер задач таймер\Менеджер задач таймер\obj\Debug\Менеджер задач таймер.csproj.GenerateResource.cache
+C:\Users\Student406-11\source\repos\Менеджер задач таймер\Менеджер задач таймер\obj\Debug\Менеджер задач таймер.csproj.CoreCompileInputs.cache
+C:\Users\Student406-11\source\repos\Менеджер задач таймер\Менеджер задач таймер\obj\Debug\Менеджер задач таймер.exe
+C:\Users\Student406-11\source\repos\Менеджер задач таймер\Менеджер задач таймер\obj\Debug\Менеджер задач таймер.pdb

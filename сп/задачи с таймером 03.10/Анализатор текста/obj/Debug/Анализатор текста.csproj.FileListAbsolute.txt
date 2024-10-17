@@ -1,0 +1,10 @@
+C:\Users\Student406-11\source\repos\Анализатор текста\Анализатор текста\bin\Debug\Анализатор текста.exe.config
+C:\Users\Student406-11\source\repos\Анализатор текста\Анализатор текста\bin\Debug\Анализатор текста.exe
+C:\Users\Student406-11\source\repos\Анализатор текста\Анализатор текста\bin\Debug\Анализатор текста.pdb
+C:\Users\Student406-11\source\repos\Анализатор текста\Анализатор текста\obj\Debug\Анализатор текста.csproj.AssemblyReference.cache
+C:\Users\Student406-11\source\repos\Анализатор текста\Анализатор текста\obj\Debug\Анализатор_текста.Form1.resources
+C:\Users\Student406-11\source\repos\Анализатор текста\Анализатор текста\obj\Debug\Анализатор_текста.Properties.Resources.resources
+C:\Users\Student406-11\source\repos\Анализатор текста\Анализатор текста\obj\Debug\Анализатор текста.csproj.GenerateResource.cache
+C:\Users\Student406-11\source\repos\Анализатор текста\Анализатор текста\obj\Debug\Анализатор текста.csproj.CoreCompileInputs.cache
+C:\Users\Student406-11\source\repos\Анализатор текста\Анализатор текста\obj\Debug\Анализатор текста.exe
+C:\Users\Student406-11\source\repos\Анализатор текста\Анализатор текста\obj\Debug\Анализатор текста.pdb
